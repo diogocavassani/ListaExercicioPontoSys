@@ -1,0 +1,11 @@
+d:\Projetos - PontoSys\ListaExercicios\src\ExercicioUm.ConsoleApp\bin\Debug\netcoreapp2.2\ExercicioUm.ConsoleApp.deps.json
+d:\Projetos - PontoSys\ListaExercicios\src\ExercicioUm.ConsoleApp\bin\Debug\netcoreapp2.2\ExercicioUm.ConsoleApp.runtimeconfig.json
+d:\Projetos - PontoSys\ListaExercicios\src\ExercicioUm.ConsoleApp\bin\Debug\netcoreapp2.2\ExercicioUm.ConsoleApp.runtimeconfig.dev.json
+d:\Projetos - PontoSys\ListaExercicios\src\ExercicioUm.ConsoleApp\bin\Debug\netcoreapp2.2\ExercicioUm.ConsoleApp.dll
+d:\Projetos - PontoSys\ListaExercicios\src\ExercicioUm.ConsoleApp\bin\Debug\netcoreapp2.2\ExercicioUm.ConsoleApp.pdb
+d:\Projetos - PontoSys\ListaExercicios\src\ExercicioUm.ConsoleApp\obj\Debug\netcoreapp2.2\ExercicioUm.ConsoleApp.csprojAssemblyReference.cache
+d:\Projetos - PontoSys\ListaExercicios\src\ExercicioUm.ConsoleApp\obj\Debug\netcoreapp2.2\ExercicioUm.ConsoleApp.csproj.CoreCompileInputs.cache
+d:\Projetos - PontoSys\ListaExercicios\src\ExercicioUm.ConsoleApp\obj\Debug\netcoreapp2.2\ExercicioUm.ConsoleApp.AssemblyInfoInputs.cache
+d:\Projetos - PontoSys\ListaExercicios\src\ExercicioUm.ConsoleApp\obj\Debug\netcoreapp2.2\ExercicioUm.ConsoleApp.AssemblyInfo.cs
+d:\Projetos - PontoSys\ListaExercicios\src\ExercicioUm.ConsoleApp\obj\Debug\netcoreapp2.2\ExercicioUm.ConsoleApp.dll
+d:\Projetos - PontoSys\ListaExercicios\src\ExercicioUm.ConsoleApp\obj\Debug\netcoreapp2.2\ExercicioUm.ConsoleApp.pdb

@@ -33,6 +33,6 @@ namespace ExercicioTres.ConsoleApp
         //         this.ValorBruto = valorBruto;
         //         this.ValorDesconto = valorDesconto;
         //     }
-        }
+        //}
     }
 }

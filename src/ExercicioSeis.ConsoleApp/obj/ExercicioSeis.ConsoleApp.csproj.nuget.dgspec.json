@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "d:\\Projetos - PontoSys\\ListaExercicios\\src\\ExercicioUm.ConsoleApp\\ExercicioUm.ConsoleApp.csproj": {}
+    "D:\\Projetos - PontoSys\\ListaExercicios\\src\\ExercicioSeis.ConsoleApp\\ExercicioSeis.ConsoleApp.csproj": {}
   },
   "projects": {
-    "d:\\Projetos - PontoSys\\ListaExercicios\\src\\ExercicioUm.ConsoleApp\\ExercicioUm.ConsoleApp.csproj": {
+    "D:\\Projetos - PontoSys\\ListaExercicios\\src\\ExercicioSeis.ConsoleApp\\ExercicioSeis.ConsoleApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "d:\\Projetos - PontoSys\\ListaExercicios\\src\\ExercicioUm.ConsoleApp\\ExercicioUm.ConsoleApp.csproj",
-        "projectName": "ExercicioUm.ConsoleApp",
-        "projectPath": "d:\\Projetos - PontoSys\\ListaExercicios\\src\\ExercicioUm.ConsoleApp\\ExercicioUm.ConsoleApp.csproj",
+        "projectUniqueName": "D:\\Projetos - PontoSys\\ListaExercicios\\src\\ExercicioSeis.ConsoleApp\\ExercicioSeis.ConsoleApp.csproj",
+        "projectName": "ExercicioSeis.ConsoleApp",
+        "projectPath": "D:\\Projetos - PontoSys\\ListaExercicios\\src\\ExercicioSeis.ConsoleApp\\ExercicioSeis.ConsoleApp.csproj",
         "packagesPath": "C:\\Users\\Diogo_Note\\.nuget\\packages\\",
-        "outputPath": "d:\\Projetos - PontoSys\\ListaExercicios\\src\\ExercicioUm.ConsoleApp\\obj\\",
+        "outputPath": "D:\\Projetos - PontoSys\\ListaExercicios\\src\\ExercicioSeis.ConsoleApp\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
