@@ -21,18 +21,5 @@ namespace ExercicioTres.ConsoleApp
 
             Console.WriteLine($"O valor liquido do produto é {Math.Round(valorLiquido, 2)}");
         }
-
-        // public class Produto {
-        //     public string Descricao { get; set; }
-        //     public float ValorBruto { get; set; }
-        //     public float ValorDesconto { get; set; }
-        //     public float ValorLiquido { get; set; }
-        //     public Produto(string descricao, float valorBruto, float valorDesconto)
-        //     {
-        //         this.Descricao = descricao;
-        //         this.ValorBruto = valorBruto;
-        //         this.ValorDesconto = valorDesconto;
-        //     }
-        //}
     }
 }
